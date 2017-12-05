@@ -1,6 +1,6 @@
 # OrientedAutoViewPager
 自定义水平、垂直自动滚动的自定义Viewpager </br>
-京东精选卡片翻转效果，淘宝广告卡片切换效果</br>
+京东精选卡片翻转效果，淘宝广告卡片切换效果，自动翻转效果</br>
 效果图如下 : </br>
 ![水平效果](https://github.com/bxfx111/OrientedAutoViewPager/blob/master/gif/hor.gif)
 
