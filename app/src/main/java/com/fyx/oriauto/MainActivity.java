@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
         initData();
     }
 
-
     private void initView() {
         viewPager = (OrientedAutoViewPager) findViewById(R.id.src_view_pager);
     }
