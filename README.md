@@ -1,0 +1,2 @@
+# OrientedAutoViewPager
+自定义水平垂直自动滚动的自定义Viewpager
