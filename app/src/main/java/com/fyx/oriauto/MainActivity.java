@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         //垂直翻滚，还是水平翻滚,默认水平翻滚
-//        viewPager.setOrientation(FyxViewPager.Orientation.VERTICAL);
+//        viewPager.setOrientation(OrientedAutoViewPager.Orientation.VERTICAL);
 //        viewPager.setPageTransformer(true, new VerticalStackTransformer(this, cardFragments.size()));
         //水平翻滚
         viewPager.setPageTransformer(true, new HorizontalStackTransformer(this, 10, cardFragments.size()));
